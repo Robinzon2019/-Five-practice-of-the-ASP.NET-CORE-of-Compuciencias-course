@@ -1,0 +1,75 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h2 class="my-5">Productos por categoria</h2>
+
+<table class="table table-hover table-bordered table-striped">
+    <thead class="bg-dark text-white">
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Categoria</th>
+        <th>Marca</th>
+        <th>Modelo</th>
+        <th>Precio</th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.productosPorCategoria)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.CategoriaId</td>
+                <td>@item.Marca</td>
+                <td>@item.Modelo</td>
+                <td>@item.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2 class="my-5">Productos con precios mayores de 3,000 pesos pero menores de 5000 pesos</h2>
+
+<table class="table table-hover table-bordered table-striped">
+    <thead class="bg-dark text-white">
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Categoria</th>
+        <th>Marca</th>
+        <th>Modelo</th>
+        <th>Precio</th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.productosMayoresDe3000YMenoresDe5000)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.CategoriaId</td>
+                <td>@item.Marca</td>
+                <td>@item.Modelo</td>
+                <td>@item.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2 class="my-5">Nombres de las categorías de los productos registrados</h2>
+
+<table class="table table-hover table-bordered table-striped">
+    <thead class="bg-dark text-white">
+        <th>Id</th>
+        <th>Nombre</th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.NombresDeCategorias)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>

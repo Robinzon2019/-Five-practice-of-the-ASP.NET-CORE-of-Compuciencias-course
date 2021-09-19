@@ -1,0 +1,12 @@
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\bin\Debug\net5.0\five_practice.core.deps.json
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\bin\Debug\net5.0\five_practice.core.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\bin\Debug\net5.0\ref\five_practice.core.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\bin\Debug\net5.0\five_practice.core.pdb
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.csproj.AssemblyReference.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.AssemblyInfoInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.AssemblyInfo.cs
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.csproj.CoreCompileInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\ref\five_practice.core.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.core\obj\Debug\net5.0\five_practice.core.pdb

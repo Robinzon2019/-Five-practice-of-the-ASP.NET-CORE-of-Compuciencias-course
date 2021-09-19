@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "five_practice.data/1.0.0": {
+        "dependencies": {
+          "five_practice.core": "1.0.0"
+        },
+        "runtime": {
+          "five_practice.data.dll": {}
+        }
+      },
+      "five_practice.core/1.0.0": {
+        "runtime": {
+          "five_practice.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "five_practice.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "five_practice.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

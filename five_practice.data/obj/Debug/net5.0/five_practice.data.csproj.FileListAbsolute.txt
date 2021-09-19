@@ -1,0 +1,15 @@
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\five_practice.data.deps.json
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\five_practice.data.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\ref\five_practice.data.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\five_practice.data.pdb
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\five_practice.core.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\bin\Debug\net5.0\five_practice.core.pdb
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.csproj.AssemblyReference.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.AssemblyInfoInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.AssemblyInfo.cs
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.csproj.CoreCompileInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.csproj.CopyComplete
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\ref\five_practice.data.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\five practice\five_practice.data\obj\Debug\net5.0\five_practice.data.pdb
